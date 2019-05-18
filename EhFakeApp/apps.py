@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class EhfakeConfig(AppConfig):
-    name = 'EhFake'
+    name = 'EhFakeApp'
